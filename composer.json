@@ -2,7 +2,7 @@
 	"name": "nis/silverstripe-grouped-cms-menu",
 	"description": "Allows you to group CMS menu items.",
 	"type": "silverstripe-vendormodule",
-	"homepage": "https://github.com/symbiote/silverstripe-grouped-cms-menu",
+	"homepage": "https://github.com/NewImageSystems/silverstripe-grouped-cms-menu",
 	"keywords": [
 		"silverstripe",
 		"menu",
