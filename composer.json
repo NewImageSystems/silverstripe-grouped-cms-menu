@@ -1,5 +1,5 @@
 {
-	"name": "NewImageSystems/silverstripe-grouped-cms-menu",
+	"name": "nis/silverstripe-grouped-cms-menu",
 	"description": "Allows you to group CMS menu items.",
 	"type": "silverstripe-module",
 	"homepage": "https://github.com/NewImageSystems/silverstripe-grouped-cms-menu",
